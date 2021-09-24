@@ -1,0 +1,30 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    /* margin: 50px 0; */
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.p-img img{
+    width: 300px;
+}
+
+.p-details{
+    margin-left: 10px;
+    margin-bottom: 1px solid gray;
+}
+
+.p-details h1{
+    font-weight: 400;
+    color: blue;
+}
+
+.btn-regular{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
